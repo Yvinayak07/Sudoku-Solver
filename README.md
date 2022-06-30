@@ -8,7 +8,4 @@ Start solving sudoku puzzles here and now!
 
 2. This app uses generative recursion and backtracking search 
 
-# Try it here and now!
-
-https://projectsbyjackhe.github.io/Sudoku-Solver/
 
