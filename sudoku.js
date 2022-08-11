@@ -241,9 +241,8 @@ function boxesGood(board){
 function updateBoard(board) {
     // update the DOM with the answer
     if (board == false){
-        for (i = 1; i <= 9; i++){
             document.getElementById("row " + String(i)).innerHTML = "NO SOLUTION EXISTS TO THE GIVEN BOARD"
-        }
+        
     }
     else{
         for (var i = 1; i <= 9; i++){
