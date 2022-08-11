@@ -262,7 +262,7 @@ function updateBoard(board) {
 
 function inputIsInvalid(){
     // starting board is invalid or puzzle is insolvable
-    for (i = 1; i <= 9; i++){
+//     for (i = 1; i <= 9; i++){
         document.getElementById("row " + String(i)).innerHTML = "THE GIVEN BOARD IS INVALID"
-    }
+//     }
 }
